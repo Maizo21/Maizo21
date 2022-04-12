@@ -1,7 +1,5 @@
-<h1 align="center">Hello👋, I'm Hernan.</h1>
+<h1 align="center">Hello 👋, I'm Hernan.</h1>
 <h3 align="center">I'm a Front-end Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maizo21" alt="maizo21" /></a> </p>
 
 - 📚 I’m currently learning **Databases**
 
@@ -23,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maizo21&show_icons=true&locale=en&layout=compact" alt="maizo21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maizo21&" alt="maizo21" /></p>
+
