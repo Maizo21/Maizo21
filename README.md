@@ -20,5 +20,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maizo21&show_icons=true&locale=en&layout=compact" alt="maizo21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maizo21&" alt="maizo21" /></p>
-
