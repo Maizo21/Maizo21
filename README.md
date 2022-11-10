@@ -3,11 +3,11 @@
 
 - 📚 I’m currently learning **Databases**
 
-- 💬 I known **react, javascript and php**
+- 💬 I known **react, javascript and liquid**
 
 - 📫 How to reach me **hernanamaizp@gmail.com**
 
-- ⚡ Fun fact **I can beat anyone at Crash Nitro Kart**
+- ⚡ Fun fact **I can beat anyone at Mario Kart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
