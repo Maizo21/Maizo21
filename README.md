@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **Databases**
 
-- 💬 I known **react, javascript and liquid**
+- 💬 I known **React, JavaScript and Liquid**
 
 - 📫 How to reach me **hernanamaizp@gmail.com**
 
