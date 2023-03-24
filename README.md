@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hernan.</h1>
 <h3 align="center">I'm a Front-end Developer</h3>
 
-- 📚 I’m currently learning **Databases**
+- 📚 I’m currently learning **Flutter**
 
 - 💬 I known **React, JavaScript and Liquid**
 
