@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hernanamaizp@gmail.com**
 
-- ⚡ Fun fact **I can beat anyone at Mario Kart**
+- ⚡ Fun fact **I can beat anyone at Crash Nitro Kart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
